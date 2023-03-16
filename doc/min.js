@@ -39,7 +39,7 @@ function JSalert(){
     imageUrl: "https://2.bp.blogspot.com/-3c75UdTdsTQ/YvBr0d9eDDI/AAAAAAAAABM/V7UZTjiM6ZcmLA_RG2dg6jxNDdraL2cRgCK4BGAYYCw/w150/IMG-20220630-WA0002.jpg",
     type: "" ,   
     showCancelButton: true,   
-    confirmButtonColor: "#ff0000",   
+    confirmButtonColor: "#228b22",   
     confirmButtonText: "▶Subscribe ☻",   
     cancelButtonText: "Cancel 😒",   
     closeOnConfirm: false,   
