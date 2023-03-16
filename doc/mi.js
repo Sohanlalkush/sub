@@ -50,7 +50,8 @@ function JSalert(){
      window.open('https://YouTube.com/@Pharmalite');
     document.cookie = "followed=yes; expires=Thu, 01 Jan 2099 00:00:00 UTC; path=/";
         swal("Thank You!🙂","Refresh page for fast download 😎", "success");   
-        } 
+       location.reload();
+ } 
         else {
         swal("Slow Download!😒", "Your Download speed reduced. to 60 seconds 🥺", "warning");  
          slow();   } });
