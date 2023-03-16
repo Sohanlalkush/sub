@@ -41,13 +41,12 @@ function JSalert(){
     showCancelButton: true,   
     confirmButtonColor: "#228b22",   
     confirmButtonText: "▶Subscribe ☻",  
-    cancelButtonColor: "#ff0000",  
     cancelButtonText: "Cancel 😒",   
     closeOnConfirm: false,   
     closeOnCancel: false }, 
     function(isConfirm){   
         if (isConfirm) 
-    {  fastd();
+    {  fast();
      window.open('https://YouTube.com/@Pharmalite');
     document.cookie = "followed=yes; expires=Thu, 01 Jan 2099 00:00:00 UTC; path=/";
         swal("Thank You!🙂","Refresh page for fast download 😎", "success");   
