@@ -35,7 +35,7 @@ window.onload = function() {checkCookie() };
    
 function JSalert(){
 	swal({   title: "SUBSCRIBE to Fast download ",   
-    text: "Please Subscribe to instant download in 15 secoi 😍",  
+    text: "Please Subscribe to instant download in 15 Seconds 😍",  
     imageUrl: "https://2.bp.blogspot.com/-3c75UdTdsTQ/YvBr0d9eDDI/AAAAAAAAABM/V7UZTjiM6ZcmLA_RG2dg6jxNDdraL2cRgCK4BGAYYCw/w150/IMG-20220630-WA0002.jpg",
     type: "" ,   
     showCancelButton: true,   
